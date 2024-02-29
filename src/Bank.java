@@ -4,6 +4,7 @@ public class Bank {
 
     private String bankName;
     private ClientBank client;
+
     Bank(String bankName){
         this.bankName = bankName;
     }

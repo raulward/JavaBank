@@ -4,7 +4,6 @@ public class ClientBank {
     private final String cpfClient;
     protected BankAccount bankAccount;
 
-
     ClientBank (String nameClient, int ageClient, String cpfClient){
         this.nameClient = nameClient;
         this.ageClient = ageClient;
